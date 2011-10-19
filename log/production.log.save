@@ -1,0 +1,1024 @@
+
+
+Processing EinplayerController#index (for 192.168.1.200 at 2011-10-18 12:33:48) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 3ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#download (for 192.168.1.200 at 2011-10-18 12:33:55) [GET]
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/download]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/einplayer.crx
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:53:07) [GET]
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:55:19) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:08) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:09) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:14) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:15) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:15) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:15) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:16) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:58:16) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:59:16) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 12:59:19) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 13:08:24) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#index to crx (for 192.168.1.200 at 2011-10-18 13:08:24) [GET]
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/einplayer.crx]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/einplayer.crx
+
+
+Processing EinplayerController#update (for 192.168.1.200 at 2011-10-18 13:08:49) [GET]
+  Parameters: {"x"=>"id=dhpoemmekinadailcnmcmeocempfobbn&v=0.0.9&uc"}
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/update?x=id%3Ddhpoemmekinadailcnmcmeocempfobbn%26v%3D0.0.9%26uc]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/update.xml
+
+
+Processing EinplayerController#index to crx (for 192.168.1.200 at 2011-10-18 13:08:49) [GET]
+Completed in 1ms (View: 0 | 200 OK [http://einplayer.jordanhurwich.com/einplayer.crx]
+Streaming file /home/jhurwich/webfolder/jordanhurwich/assets/einplayer.crx
+/!\ FAILSAFE /!\  Tue Oct 18 13:10:31 -0700 2011
+  Status: 500 Internal Server Error
+  CONNECT, accepted HTTP methods are get, head, put, post, delete, and options
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/request.rb:35:in `request_method'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/request.rb:43:in `method'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/base.rb:1313:in `log_processing_for_request_id'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/base.rb:1305:in `log_processing'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/base.rb:531:in `process_without_filters'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/filters.rb:606:in `process'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/rescue.rb:65:in `call_with_exception'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:90:in `dispatch'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:121:in `_call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+
+
+Processing EinplayerController#index (for 63.245.216.214 at 2011-10-18 13:10:31) [POST]
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  passenger (3.0.9) lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+  passenger (3.0.9) lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+  passenger (3.0.9) lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+  passenger (3.0.9) lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+  passenger (3.0.9) lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+  passenger (3.0.9) lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+  passenger (3.0.9) lib/phusion_passenger/utils.rb:479:in `safe_fork'
+  passenger (3.0.9) lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server.rb:180:in `start'
+  passenger (3.0.9) lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+  passenger (3.0.9) lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+  passenger (3.0.9) lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+  passenger (3.0.9) lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+  passenger (3.0.9) lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+  passenger (3.0.9) lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+  passenger (3.0.9) lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+  passenger (3.0.9) helper-scripts/passenger-spawn-server:99
+
+Rendering /home/jhurwich/webfolder/jordanhurwich/public/422.html (422 Unprocessable Entity)
+
+
+Processing EinplayerController#index (for 192.168.1.200 at 2011-10-18 13:10:39) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 3ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 192.168.1.200 at 2011-10-18 13:39:21) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 2ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 192.168.1.200 at 2011-10-18 13:39:58) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 2ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 192.168.1.200 at 2011-10-18 13:41:22) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 4ms (View: 2 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 192.168.1.200 at 2011-10-18 14:12:05) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 2ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 122.248.200.210 at 2011-10-18 14:21:02) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 1ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 122.248.200.210 at 2011-10-18 14:21:02) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 1ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 202.10.69.110 at 2011-10-18 14:35:38) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 1ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 202.10.69.110 at 2011-10-18 14:35:38) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 1ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 192.168.1.200 at 2011-10-18 15:35:41) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 1ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 70.38.27.212 at 2011-10-18 16:14:28) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 1ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+
+
+Processing EinplayerController#index (for 70.38.27.212 at 2011-10-18 16:14:28) [GET]
+Rendering template within layouts/einplayer
+Rendering einplayer/index
+Completed in 1ms (View: 1 | 200 OK [http://einplayer.jordanhurwich.com/]
+/!\ FAILSAFE /!\  Tue Oct 18 16:14:41 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 16:15:03 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 16:16:56 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 16:19:42 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 16:21:50 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:22:59 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:23:10 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:23:13 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:26:45 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:26:45 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:28:24 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:28:49 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99
+/!\ FAILSAFE /!\  Tue Oct 18 17:30:28 -0700 2011
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activesupport-2.3.8/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /home/jhurwich/.rvm/rubies/ruby-1.8.6-p420/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/head.rb:9:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/methodoverride.rb:24:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/rack-1.1.2/lib/rack/lock.rb:11:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:106:in `call'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/rack/request_handler.rb:96:in `process_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:513:in `accept_and_process_next_request'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_request_handler.rb:274:in `main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:321:in `start_request_handler'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `send'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/utils.rb:479:in `safe_fork'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:270:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+vv    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:180:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+q    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+    /home/jhurwich/.rvm/gems/ruby-1.8.6-p420@jordanhurwich/gems/passenger-3.0.9/helper-scripts/passenger-spawn-server:99

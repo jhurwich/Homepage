@@ -1,0 +1,23 @@
+<img id="cassette" src="/images/cassette.png" onclick="window.showEmail()"></img>
+<% form_for @user, :url => download_path  do |form| %>
+  <%= form.text_field :email, :size => 40, :class => "hidden" %>
+<% end %>
+<div id="bottom-buttons">
+  <a href="https://github.com/jhurwich/Einplayer"><img id="github" src="/images/github.png"></a>
+  <a href="mailto:einplayer@hurwichmail.com?body=Please describe your issue in detail (Issues with unfocused tabs and windows are known):"><img id="reportbug" src="/images/reportbug.png"></a>
+</div>
+
+<script type="text/javascript">
+  function showEmail() {
+    var elem = document.getElementById("user_email");
+    elem.className = elem.className.replace("hidden", "");
+  }
+  var emailInput = document.getElementById("user_email");
+  if (emailInput.value != "") {
+    showEmail();
+  }
+  else {
+    console.log("NO VALUE");
+  }
+  addTextHint(emailInput, "Email");
+</script
