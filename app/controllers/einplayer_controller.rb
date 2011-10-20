@@ -2,8 +2,11 @@ class EinplayerController < ApplicationController
 
   def index
     @user = User.new
+    
+    set_chrome_format
     respond_to do |format|
-      format.html
+      format.chrome { render :action => 'index' }
+      format.html { render :action => 'chromeonly' }
       format.xml { update() }
       format.crx { download() }
     end
@@ -27,6 +30,19 @@ class EinplayerController < ApplicationController
   def thisisanupdatepath
     send_file '/home/jhurwich/webfolder/jordanhurwich/assets/einplayer.crx',
               :type=>"application/x-chrome-extension"
+  end
+
+  def users    
+    if params.nil? or params[:login].nil?
+      render :action => 'users'
+      return
+    end
+    
+    puts " params[:login][:password] " + params[:login][:password] 
+    if params[:login][:password] == "jordan23"
+      @users = User.all
+    end
+    render :action => 'users'
   end
 
 end

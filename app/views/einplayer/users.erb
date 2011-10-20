@@ -1,0 +1,11 @@
+<% if @users %>
+  <div id="users">
+    <% @users.each_with_index do |user, index| %>
+      <div class="user-row"><%= (index+1).to_s + ": " + user.email + "  (" + user.created_at.strftime('%m/%d/%y %H:%M') + ")" %></div>
+    <% end %>
+  </div>
+<% else %>
+  <% form_for :login, :url => { :action => 'users' }  do |form| %>
+    <%= form.text_field :password, :size => 40 %>
+  <% end %>
+<% end %>

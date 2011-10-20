@@ -43,3 +43,20 @@ input.ghost {
 span.fieldWithErrors > input {
   border-bottom: 2px solid red;
 }
+
+#chrome-box {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-left: -100px;
+  margin-top: -140px;
+  width: 200px;
+  text-align: center;
+}
+#chrome-text {
+  font: 40px trebuchet ms, sans-serif;
+  color: white;
+}
+#users {
+  color: white;
+}
