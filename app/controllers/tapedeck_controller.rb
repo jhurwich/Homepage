@@ -1,3 +1,4 @@
+require 'aws/s3'
 class TapedeckController < ApplicationController
 
   def index
@@ -15,21 +16,29 @@ class TapedeckController < ApplicationController
   def download
     @user = User.new(params[:user])
     if @user.save
-      send_file '/home/jhurwich/webfolder/jordanhurwich/assets/tapedeck.crx',
-                :type=>"application/x-chrome-extension"
+      redirect_to_s3("tapedeck.crx")
     else
       render :action => "index"
     end
   end
   
   def update
-    send_file '/home/jhurwich/webfolder/jordanhurwich/assets/update.xml',
-              :type=>"application/xml" 
+    redirect_to_s3("update.xml")
   end
 
   def thisisanupdatepath
-    send_file '/home/jhurwich/webfolder/jordanhurwich/assets/tapedeck.crx',
-              :type=>"application/x-chrome-extension"
+    redirect_to_s3("tapedeck.crx")
+  end
+
+  def redirect_to_s3(objectName)
+    AWS::S3::Base.establish_connection!(
+      :access_key_id     => 'AKIAILIWN7VC34553LVA',
+      :secret_access_key => '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'
+    )
+    download_url = AWS::S3::S3Object.url_for(objectName,
+                                             "tape-deck",
+                                             :expires_in => 2 * 60) # in seconds
+    redirect_to download_url
   end
 
   def users    

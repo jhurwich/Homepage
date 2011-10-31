@@ -9,6 +9,7 @@ gem 'rails', '=2.3.8'
 
 gem 'json'
 gem 'heroku'
+gem 'aws-s3'
 
 group :test do
   gem 'passenger'

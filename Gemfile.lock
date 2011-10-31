@@ -12,6 +12,11 @@ GEM
       activesupport (= 2.3.8)
     activesupport (2.3.8)
     addressable (2.2.6)
+    aws-s3 (0.6.2)
+      builder
+      mime-types
+      xml-simple
+    builder (3.0.0)
     daemon_controller (0.2.6)
     fastthread (1.0.7)
     heroku (2.11.0)
@@ -42,11 +47,13 @@ GEM
       mime-types (>= 1.16)
     rubyzip (0.9.4)
     term-ansicolor (1.0.7)
+    xml-simple (1.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  aws-s3
   heroku
   json
   mysql
