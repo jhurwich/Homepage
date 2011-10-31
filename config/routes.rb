@@ -1,11 +1,11 @@
 ActionController::Routing::Routes.draw do |map|
 
-  map.download '', :controller => 'einplayer', :action => 'download',
+  map.download '', :controller => 'tapedeck', :action => 'download',
               :conditions => { :method => :post }
 
-  map.connect 'einplayer.:format', :controller => 'einplayer'
+  map.connect 'tapedeck.:format', :controller => 'tapedeck'
 
-  map.connect ':action.:format', :controller => 'einplayer'
-  map.connect 'einplayer/:action.:format', :controller => 'einplayer'
+  map.connect ':action.:format', :controller => 'tapedeck'
+  map.connect 'tapedeck/:action.:format', :controller => 'tapedeck'
 
 end

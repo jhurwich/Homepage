@@ -1,4 +1,4 @@
-class EinplayerController < ApplicationController
+class TapedeckController < ApplicationController
 
   def index
     @user = User.new
@@ -15,7 +15,7 @@ class EinplayerController < ApplicationController
   def download
     @user = User.new(params[:user])
     if @user.save
-      send_file '/home/jhurwich/webfolder/jordanhurwich/assets/einplayer.crx',
+      send_file '/home/jhurwich/webfolder/jordanhurwich/assets/tapedeck.crx',
                 :type=>"application/x-chrome-extension"
     else
       render :action => "index"
@@ -28,7 +28,7 @@ class EinplayerController < ApplicationController
   end
 
   def thisisanupdatepath
-    send_file '/home/jhurwich/webfolder/jordanhurwich/assets/einplayer.crx',
+    send_file '/home/jhurwich/webfolder/jordanhurwich/assets/tapedeck.crx',
               :type=>"application/x-chrome-extension"
   end
 
