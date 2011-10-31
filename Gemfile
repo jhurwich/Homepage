@@ -10,7 +10,7 @@ gem 'rails', '=2.3.8'
 gem 'json'
 gem 'heroku'
 
-group :staging do
+group :test do
   gem 'passenger'
   gem 'mysql'
 end
