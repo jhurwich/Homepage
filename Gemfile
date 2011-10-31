@@ -1,3 +1,4 @@
+
 source 'http://rubygems.org'
 
 gem 'rails', '=2.3.8'
@@ -5,9 +6,14 @@ gem 'rails', '=2.3.8'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
+
 gem 'json'
-gem 'passenger'
-gem 'mysql'
+gem 'heroku'
+
+group :staging do
+  gem 'passenger'
+  gem 'mysql'
+end
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
