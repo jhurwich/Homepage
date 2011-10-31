@@ -60,3 +60,6 @@ span.fieldWithErrors > input {
 #users {
   color: white;
 }
+a {
+  text-decoration: none !important;
+}
