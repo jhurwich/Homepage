@@ -1,11 +1,15 @@
 <% if @users %>
   <div id="users">
-    <% @users.each_with_index do |user, index|
+    <%
+    count = 0
+    @users.each do |user|
       if user.email.match("hurwichmail") == nil and
          user.email.match("jhurwich") == nil %>
     
-        <div class="user-row"><%= (index+1).to_s + ": " + user.email + "  (" + user.created_at.strftime('%m/%d/%y %H:%M') + ")" %></div>
-      <% end
+        <div class="user-row"><%= (count).to_s + ": " + user.email + "  (" + user.created_at.strftime('%m/%d/%y %H:%M') + ")" %></div>
+
+      <% count = count + 1
+      end
     end %>
   </div>
 <% else %>
