@@ -1,8 +1,12 @@
 <% if @users %>
   <div id="users">
-    <% @users.each_with_index do |user, index| %>
-      <div class="user-row"><%= (index+1).to_s + ": " + user.email + "  (" + user.created_at.strftime('%m/%d/%y %H:%M') + ")" %></div>
-    <% end %>
+    <% @users.each_with_index do |user, index|
+      if user.email.match("hurwichmail") == nil and
+         user.email.match("jhurwich") == nil %>
+    
+        <div class="user-row"><%= (index+1).to_s + ": " + user.email + "  (" + user.created_at.strftime('%m/%d/%y %H:%M') + ")" %></div>
+      <% end
+    end %>
   </div>
 <% else %>
   <% form_for :login, :url => { :action => 'users' }  do |form| %>

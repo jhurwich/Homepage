@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='hhnnkmghgpepjmpdadgedfpoaeengkhe'>
-    <updatecheck codebase='http://www.tape-deck.com/tapedeck/thisisanupdatepath' version='0.0.9' />
+    <updatecheck codebase='http://www.tape-deck.com/tapedeck/thisisanupdatepath' version='0.1.2' />
   </app>
 </gupdate>
