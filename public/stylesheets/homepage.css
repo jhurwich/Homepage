@@ -3,15 +3,101 @@
 }
 body {
   background-color: black;
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding-left: 22px;
+}
+
+#nav-buttons {
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-left: 1px solid white;
+}
+.nav {
+  float: left;
+  cursor: pointer;
+  padding: 1px 3px;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  font: 16px trebuchet ms, sans-serif;
+  color: white;
+  z-index: 100;
+}
+
+#page-content {
+  position: relative;
+  width: 800px;
+  max-width: 800px;
+  min-width: 800px;
+  height: 800px;
+  min-height: 800px;
+  max-height: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.info-box {
+  opacity: 0;
+  font: 16px trebuchet ms, sans-serif;
+  color: white;
+}
+.topic-header {
+  font: 24px trebuchet ms, sans-serif;
+  color: #e0efff;
+  font-weight: bold;
+}
+#top-box {
+  position: relative;
+  max-height: 212px;
+  width: 100%;
+  margin-top: 63px;
+}
+#left-box,
+#right-box {
+  width: 275px;
+  height: 400px;
+  float: left;
+  padding-top: 15px;
+}
+#right-box {
+  clear: right;
+}
+#download-box {
+  position: relative;
+  width: 200px;
+  height: 220px;
+  float: left;
+  margin: 0 25px;
+}
+#bottom-box {
+  position: absolute;
+  top: 220px;
+  width: 200px;
+  height: 275px;
+  font-size: 13px;
+  text-align: center;
+}
+/* this is the case for the chrome-only page */
+#chrome-box > #bottom-box {
+  position: absolute;
+  top: 0px;
+  font-size: 22px;
 }
 
 #cassette {
   cursor: pointer;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-left: -100px;
-  margin-top: -63px;
+  position: relative;
+  margin-top: 63px;
+}
+input {
+  display: block;
+  color: black;
+  position: relative;
+  width: 250px;
+  margin-top: 5px;
+  margin-left: -25px;
 }
 
 #bottom-buttons {
@@ -22,36 +108,37 @@ body {
 }
 #bottom-buttons #github {
   height: 40px;
+  float: left;
 }
 #bottom-buttons #reportbug {
   height: 38px;
+  float: left;
+}
+#bug-box {
+  float: left;
+  height: 38px;
+  padding-top: 8px;
+  font-size: 20px;
 }
 
-input {
-  display: block;
-  color: black;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  width: 250px;
-  margin-left: -125px;
-  margin-top: 80px;
-}
 input.ghost {
   color: #a2a2a2;
 }
 span.fieldWithErrors > input {
   border-bottom: 2px solid red;
 }
+.strong-text{
+  color: #ff9900;
+}
 
 #chrome-box {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-left: -100px;
-  margin-top: -140px;
+  position: relative;
+  margin-top: 25px;
   width: 200px;
   text-align: center;
+}
+#chrome-img {
+  margin-top: 38px;
 }
 #chrome-text {
   font: 40px trebuchet ms, sans-serif;
@@ -62,4 +149,10 @@ span.fieldWithErrors > input {
 }
 a {
   text-decoration: none !important;
+}
+a:link {
+  color: #7bbafe; 
+}
+a:visited {
+  color: #b761f0;
 }

@@ -7,9 +7,7 @@ class ApplicationController < ActionController::Base
   # Checks UserAgent
   def is_chrome?
     ua = request.user_agent
-    puts "UA: " + (ua.nil? ? "Nil" : ua)
     return false if ua.nil?
-    puts "Index: " + ua.downcase.index('chrome').to_s
     return true if ua.downcase.index('chrome')
     
     false

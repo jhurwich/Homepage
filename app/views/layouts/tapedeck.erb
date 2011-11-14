@@ -6,7 +6,8 @@
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
   <title> One player for the web </title>
   <%= stylesheet_link_tag 'homepage' %>
-  <%= javascript_include_tag :defaults %>
+  <%= javascript_include_tag 'jquery-1.7.min' %>
+  <%= javascript_include_tag 'application' %>
   <script type="text/javascript">
   
     var _gaq = _gaq || [];
@@ -20,10 +21,100 @@
     })();
   
   </script>
+  <script type="text/javascript">
+    function reveal(idArr) {
+      
+      var boxes = ["top-box", "left-box", "right-box", "bottom-box", "bug-box"];
+      for (var i = 0; i < boxes.length; i++) {
+        var id = boxes[i];
+        var elem = $("#" + id);
+        
+        if (idArr.indexOf(id) != -1) {
+          // Box is in to be revealed array, if it's invisible show it
+          if ($(elem).css("opacity") == 0) {
+            $(elem).fadeTo('slow', 1);
+          }
+        }
+        else {
+          // Box is not in to be revealed array, if it's visible hide it
+          if ($(elem).css("visibility") == "visible") {
+            $(elem).fadeTo('slow', 0);
+          }
+        }
+      }
+    }
+    function whatIsTapedeck() {
+      reveal(["left-box", "right-box"]);
+    }
+    function howToUseTapedeck() {
+      reveal(["top-box", "bottom-box", "bug-box"]);
+    }
+    function showRoadmap() {
+      reveal(["right-box", "bug-box"]);
+    }
+  </script>
 </head>
 <body>
+  <div id="page-content">
+    <div id="nav-buttons">
+      <div id="what-is" class="nav" onclick="whatIsTapedeck();">
+          What is Tapedeck?
+      </div>
+      <div id="how-to" class="nav" onclick="howToUseTapedeck();">
+        How to use Tapedeck
+      </div>
+      <div id="roadmap" class="nav" onclick="showRoadmap();">
+        Help Tapedeck
+      </div>
+    </div>
+    
+    <div id="top-box" class="info-box">
+      <span class="topic-header">How to use Tapedeck</span>
+      <ul>
+        <li>Currently, "The Scraper" is the only cassette in Tapedeck and it is hard-wired in place (this will change).</li>
+        <li>The Scraper finds all .mp3 links on the page you are on and makes them available in Tapedeck.</li>
+        <li>After installing Tapedeck, you should see 4 buttons on the right side of each page you visit.</li>
+        <li>Try opening the player, the "&lt;" button on top, and going to <a href="http://www.theburningear.com">theburningear.com</a>.</li>
+        <li>All mp3 links on the site will appear in the bottom list.  Double click one to add it to your queue.</li>
+      </ul>
+    </div>
+    
+    <div id="left-box" class="info-box">
+      <span class="topic-header">What is Tapedeck?</span>
+      <ul>
+        <li>Tapedeck is a "cassette" player for a new age of cassettes.</li>
+        <li>To Tapedeck, any source of music on the web can be a cassette.</li>
+        <li>The HypeMachine, Rdio, Spotify, Grooveshark, music blogs, and more can all be cassettes.</li>
+        <li>Tapedeck is built to work within Chrome, so you can play, pause, and interact with your tracks right from your browser window.</li>
+        <li>Some features:</li>
+           <ul>
+            <li>Quick-action buttons</li>
+            <li>Playlists</li>
+            <li>Download tracks</li>
+          </ul>
+      </ul>
+    </div>
+    
+    <div id="download-box">
+      <%= yield %>
+    </div>
 
-<%= yield %>
+    <div id="right-box" class="info-box">
+      <span class="topic-header">Help!</span>
+      <ul>
+        <span class="strong-text"><li>Tapedeck needs developers!</li></span>
+        <li>Currently Tapedeck is the open-source project of one person,<br />Jordan Hurwich.</li>
+        <li>I am looking for developers interested in helping with:</li>
+          <ul>
+            <li>Core Player Development</li>
+            <li>UI Improvements<br />(Tapedeck is skinnable!)</li>
+            <li>Writing Cassettes<br />(Implement 2 functions!)</li>
+          </ul>
+        <li>"Founder" positions are available for serious contributers, sharing ownership of the project.</li>
+        <li>Email tapedeck(at)hurwichmail(dot)com if you're interested at any level.</li>
+      </ul>
+    </div>
 
+  </div>
 </body>
 </html>
