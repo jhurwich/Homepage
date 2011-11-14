@@ -146,6 +146,9 @@ span.fieldWithErrors > input {
   color: white;
 }
 #users {
+  position: fixed;
+  top: 35px;
+  left: 5px;
   color: white;
 }
 a {
